@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ivainoyag.blockmed.tech/sitemap.xml
